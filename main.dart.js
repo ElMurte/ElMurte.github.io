@@ -71447,7 +71447,7 @@ m(){this.f.m()
 this.aH()},
 a2o(){this.ag(new A.a_D(this))},
 H(a){var s=this.d?A.ah0(B.S,null).a56(B.x4,B.fQ,B.Nw):A.ah0(B.W,null).a58(B.x3,B.fQ,B.j,B.Ny)
-return new A.v8(A.aK(["/",new A.a_M(this)],t.N,t.Ab),"/","Elvis Murtezan - Flutter  Developer Portfolio",s,null)},
+return new A.v8(A.aK(["/",new A.a_M(this)],t.N,t.Ab),"/","Elvis Murtezan",s,null)},
 rv(a,b){var s=null
 return new A.bD(B.ea,A.h3(s,A.cP(a,s,A.hv(s,s,this.e===a?B.ac:B.hW,s,s,s,s,s,s,s,s,19,s,s,B.a4,s,s,!0,s,s,s,s,s,s,s,s),s),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a_C(this,a,b),s,s,s),s)},
 lH(a){var s=$.ax.al$.z.k(0,a),r=s==null?null:s.gL()
