@@ -73489,7 +73489,7 @@ ah(){return new A.FT()}}
 A.FT.prototype={
 J(a){var s=null,r=this.d?B.ab:B.fg
 this.a.toString
-return A.mY(!1,s,!0,new A.bQ(B.bb,A.ca("Built with Flutter and AI copilot tools",s,A.ez(s,B.w,r,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),s),s,!0,s,s,s,s,s,s,new A.Yr(this),s,new A.Ys(),s,s,s,s,s)}}
+return A.mY(!1,s,!0,new A.bQ(B.bb,A.ca("Built with Flutter",s,A.ez(s,B.w,r,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),s),s,!0,s,s,s,s,s,s,new A.Yr(this),s,new A.Ys(),s,s,s,s,s)}}
 A.Ys.prototype={
 $0(){A.k5(A.dy("https://github.com/ElMurte",0,null))},
 $S:0}
